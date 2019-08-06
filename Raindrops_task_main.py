@@ -8,11 +8,11 @@ class Raindrops():
 
 for n in range(1,120):
         if n % 3 == 0 and n% 5 == 0:
-            print("PING")
+            print("Pling")
         elif n % 5 == 0:
-            print("PLANG")
+            print("Plang")
         elif n % 7 == 0:
-            print ("PLONG")
+            print ("Plong")
 
         else:
             print(n)
