@@ -3,15 +3,15 @@
 
 
 class Raindrops():
+    def raindrop (n):
+        n=input("enter a value: ")
 
-    def raindrop (num):
-        for num in range(1,120):
-            if num % 3 == 0 and num% 5 == 0:
-                print("Pling")
-            elif num % 5 == 0:
-                print("Plang")
-            elif num % 7 == 0:
-                print ("Plong")
-
+for n in range(1,120):
+        if n % 3 == 0 and n% 5 == 0:
+            print("Pling")
+        elif n % 5 == 0:
+            print("Plang")
+        elif n % 7 == 0:
+            print ("Plong")
         else:
-            print(num)
+            print(n)
