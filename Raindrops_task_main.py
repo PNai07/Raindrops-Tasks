@@ -1,12 +1,13 @@
 # Raindrops task Main
 # Payal Nayee
 
-
 class Raindrops():
     def raindrop(self):
+        # created a class and defining raindrop
 
         input("Enter a value:  ")
-for n in range(1,120):
+
+for n in range(1,121): # this sets a range of the values
 
         if n % 3 == 0 & n% 5 == 0:
             print("Pling")
@@ -19,3 +20,4 @@ for n in range(1,120):
 
         else:
             print(n)
+
