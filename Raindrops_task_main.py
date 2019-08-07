@@ -4,20 +4,22 @@
 class Raindrops():
     def raindrop(self):
         # created a class and defining raindrop
-
-        input("Enter a value:  ")
-
-for n in range(1,121): # this sets a range of the values
-
-        if n % 3 == 0 & n% 5 == 0:
+        return
+    n = int(input("Please enter a value: "))
+ # this asks for a user input
+# Used if statement expressing the conditions of the program.
+    if n % 3 == 0:
+        if (n % 3 == 0 and n % 5 == 0):
+            print("PlingPlang")
+        else:
             print("Pling")
 
-        elif n % 5 == 0:
-            print("Plang")
+    elif n % 5 == 0:
+        print("Plang")
 
-        elif n % 7 == 0:
-            print ("Plong")
+    elif n % 7 == 0:
+        print ("Plong")
 
-        else:
-            print(n)
-
+    elif (n % 3 != 0) | (n % 5 != 0) | (n % 7 != 0):
+        print(n)
+    # this statement says if an integer is not divisible by these numbers, should return the integer value.

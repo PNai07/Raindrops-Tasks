@@ -6,8 +6,8 @@
       <change beforePath="$PROJECT_DIR$/../PythonWeek_two/RatesParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonWeek_two/RatesParser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonWeek_two/day3JSON.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonWeek_two/day3JSON.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python_basics_devops36-37" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_basics_devops36-37" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Raindrops_task_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Raindrops_task_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Raindrops_task_pytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Raindrops_task_pytest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Unit_testing/Simple_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit_testing/Simple_Calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Unit_testing/pytest_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit_testing/pytest_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Unit_testing/test_unitest_Simple_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit_testing/test_unitest_Simple_Calculator.py" afterDir="false" />
@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Raindrops_task_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="475">
+              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -36,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Raindrops_task_pytest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -59,17 +59,8 @@
       <list>
         <option value="$PROJECT_DIR$/Raindrops_task_test.py" />
         <option value="$PROJECT_DIR$/Raindrops_task_pytest.py" />
+        <option value="$PROJECT_DIR$/edit_main_raindrops.py" />
         <option value="$PROJECT_DIR$/Raindrops_task_main.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/RaindropsTask.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
@@ -232,12 +223,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2758112" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1327609" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2545969" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22489391" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -300,17 +291,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/edit_main_raindrops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Raindrops_task_pytest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Raindrops_task_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="475">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
